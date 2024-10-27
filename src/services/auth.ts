@@ -15,7 +15,7 @@ interface LoginFormValues {
   }
 
   GoogleSignin.configure({
-    webClientId: '6020520191-cpjh8le5ijerkn9pcqpburai3l16lu5i.apps.googleusercontent.com',
+    webClientId: '60.......apps.googleusercontent.com',
   });
   
   
