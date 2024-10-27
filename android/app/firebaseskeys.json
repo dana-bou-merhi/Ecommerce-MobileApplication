@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6020520191",
+    "project_id": "mobile-ecom-auth",
+    "storage_bucket": "mobile-ecom-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6020520191:android:0964fbe56d0f4ff94f94ca",
+        "android_client_info": {
+          "package_name": "com.newfolderecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4oWllfedCXb0jg5N1U8Cdstnyl_GbyGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
