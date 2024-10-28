@@ -52,6 +52,7 @@ console.log(token);
     console.log(responseData);
       Alert.alert('Logged in successfully');
       ToastAndroid.show('Logged in Successfully after authentication ', ToastAndroid.SHORT);
+    navigation.navigate('Home')
    setEmail(' ');
    setPassword(' ');
 
@@ -100,9 +101,7 @@ console.log(token);
             <Text style={styles.forgotPasswordText}>Forgot Password?</Text>
           </TouchableOpacity>
 
-          <Roundbtn label="Login" onPress={()=>{handleLogin(email,password)   
-        navigation.navigate('Home')  
-        }
+          <Roundbtn label="Login" onPress={()=>{handleLogin(email,password)   }
         }/>
           
           <Text style={styles.continueText}>or continue with</Text>
